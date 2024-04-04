@@ -25,3 +25,23 @@ width: 26%;
     padding: 20px 0;
     color: #F9FC64;
 }
+.escola-imagem{
+    width: 20%;
+}
+.escola{
+    background-image: linear-gradient(#10D9FA, #f2fdff);
+    color:#615D98;
+    display: flex;
+    justify-content: center;
+    padding: 24px 0;
+}
+.escola-titulo{
+    padding-top: 24px 0;
+  
+}
+.escola-texto-um{
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
